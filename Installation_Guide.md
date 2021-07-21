@@ -1,4 +1,4 @@
-<img alt="OpenSK logo" src="docs/img/OpenSK.svg" width="100px">
+<img alt="OpenSK logo" src="docs/img/OpenSK.svg" width="200px">
 
 # Installation guide
 
