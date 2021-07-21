@@ -91,7 +91,7 @@ driver, before faulting the app, you can use the `--panic-console` flag of the
 ```
 ### Demo 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="/docs/Microsoft Account Authentication - Demo Video.gif" width="40" height="40" />
 
 ### Debugging memory allocations
 
