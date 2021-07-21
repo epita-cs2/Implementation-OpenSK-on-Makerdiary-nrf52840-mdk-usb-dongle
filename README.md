@@ -38,7 +38,7 @@ are not designed to be resistant against side-channel attacks.
 ## Installation
 
 For a more detailed guide, please refer to our
-[installation guide](INSTALLATION Guide.md).
+[installation guide](Installation_Guide.md).
 
 ### Customization
 
