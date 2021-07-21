@@ -89,9 +89,6 @@ driver, before faulting the app, you can use the `--panic-console` flag of the
 # Example on Makerdiary nRF52840-MDK-DFU board
 ./deploy.py --board=nrf52840_mdk_dfu --opensk --panic-console
 ```
-### Microsoft Email Account Authentication - Demo 
-
-<img src="/docs/Microsoft Account Authentication - Demo Video.gif" width="1000" height="500" />
 
 ### Debugging memory allocations
 
@@ -142,6 +139,10 @@ You can control the tool with the following parameters:
 ```shell
 cargo run --manifest-path tools/heapviz/Cargo.toml -- --logfile console.log --fps 50
 ```
+
+### Microsoft Email Account Authentication - Demo 
+
+<img src="/docs/Microsoft Account Authentication - Demo Video.gif" width="1000" height="500" />
 
 ## Reporting a Vulnerability
 
