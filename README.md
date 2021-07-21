@@ -89,7 +89,7 @@ driver, before faulting the app, you can use the `--panic-console` flag of the
 # Example on Makerdiary nRF52840-MDK-DFU board
 ./deploy.py --board=nrf52840_mdk_dfu --opensk --panic-console
 ```
-### Demo 
+### Microsoft Email Account Authentication - Demo 
 
 <img src="/docs/Microsoft Account Authentication - Demo Video.gif" width="1000" height="500" />
 
